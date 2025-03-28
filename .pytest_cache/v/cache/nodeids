@@ -1,0 +1,10 @@
+[
+  "tests/test_payroll.py::PayrollTestCase::test_api_endpoints",
+  "tests/test_payroll.py::PayrollTestCase::test_employee_creation",
+  "tests/test_payroll.py::PayrollTestCase::test_gross_pay_calculation",
+  "tests/test_payroll.py::PayrollTestCase::test_holiday_pay_calculation",
+  "tests/test_payroll.py::PayrollTestCase::test_net_pay_calculation",
+  "tests/test_payroll.py::PayrollTestCase::test_overtime_pay_calculation",
+  "tests/test_payroll.py::PayrollTestCase::test_regular_pay_calculation",
+  "tests/test_payroll.py::PayrollTestCase::test_shift_creation"
+]
